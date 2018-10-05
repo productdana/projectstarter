@@ -1,2 +1,2 @@
-# sgbouncewizard
-UCI Capstone 2018-19 bounce wizard
+# starter project
+clone this repo for a quick start to your next project
